@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Package
+  xmlns="http://schemas.microsoft.com/developer/2004/01/bootstrapper"
+  Name="DisplayName"
+  Culture="Culture"
+>
+
+    <!-- Defines a localizable string table for error messages-->
+    <Strings>
+        <String Name="DisplayName">Visual C++ 2008 Service Pack 1 MFC Security Update Runtime Libraries (x86)</String>
+        <String Name="Culture">ru</String>
+        <String Name="AdminRequired">Для установки Visual C++ 2008 Runtime Libraries (x86) необходим административный доступ. Обратитесь к администратору.</String>
+        <String Name="InvalidPlatformWin9x">Установка Visual C++ 2008 Runtime Libraries (x86) не поддерживается на Windows 95. Обратитесь к администратору.</String>
+        <String Name="InvalidPlatformWinNT">Установка Visual C++ 2008 Runtime Libraries (x86) не поддерживается на Windows NT 4.0. Обратитесь к администратору.</String>
+        <String Name="GeneralFailure">Произошла ошибка при попытке установки Visual C++ 2008 Runtime Libraries (x86).</String>
+        <String Name="VCRedistExe">http://www.microsoft.com/en-us/download/details.aspx?id=26368</String>
+    </Strings>
+
+</Package>
